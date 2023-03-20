@@ -13,7 +13,7 @@ I am a Software Developer from Sri Lanka, currently working as an intern and con
 - 📫 How to reach me: &nbsp; 
 <a href="https://www.linkedin.com/in/mahesh-abeykoon/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a> 
 <a href="https://medium.com/@maheshoabeykoon"><img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=whitelack" alt="Medium Badge"></a>
-<a href="https://maheshabeykoon.github.io/"><img src="https://img.shields.io/badge/Mahesh Abeykoon-black?style=for-the-badge & logoColor=blue" alt=""></a>
+<a href="https://maheshabeykoon.github.io/"><img src="https://img.shields.io/badge/Mahesh Abeykoon-blue?style=for-the-badge&logo=medium&logoColor=whitelack" alt="Medium Badge"></a>>
 
 ### 🔥 &nbsp; My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Mahesh-Abeykoon&theme=black-ice&background=000000)](https://git.io/streak-stats)
@@ -27,7 +27,7 @@ I am a Software Developer from Sri Lanka, currently working as an intern and con
  
 <h2> 🚀 &nbsp;Tools I Have Used</h2>
 <p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" color=blue alt="vscode" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" color="red" alt="vscode" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" alt="intellij" width="45" height="45 />
           
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="45" height="45"/>
