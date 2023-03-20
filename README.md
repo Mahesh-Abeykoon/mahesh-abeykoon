@@ -10,9 +10,10 @@
 
 I am a Software Developer from Sri Lanka, currently working as an intern and contributing to both frontend and backend development for building web applications. I am also exploring technical content writing as a means of expanding my skills and knowledge. 
 
-- 📫 How to reach me: &nbsp; <a href="https://www.linkedin.com/in/mahesh-abeykoon/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
-- <a href="https://medium.com/@maheshoabeykoon"><img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=whitelack" alt="Medium Badge"></a>
-
+- 📫 How to reach me: &nbsp; 
+<a href="https://www.linkedin.com/in/mahesh-abeykoon/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a> 
+<a href="https://medium.com/@maheshoabeykoon"><img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=whitelack" alt="Medium Badge"></a>
+<a href="https://maheshabeykoon.github.io/"><img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=medium&logoColor=blue" alt="Medium Badge"></a>
 
 ### 🔥 &nbsp; My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Mahesh-Abeykoon&theme=black-ice&background=000000)](https://git.io/streak-stats)
