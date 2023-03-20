@@ -1,6 +1,5 @@
-<p align="center"><img src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif" width="100"/></p>
+<p align="center"><img src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966" width="100"/></p>
 <p align="center">
-<a href="https://www.linkedin.com/in/mahesh-abeykoon/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 </p>
 <p align="center">
 </p>
@@ -13,8 +12,8 @@
 
 I am a Software Developer from Sri Lanka, currently working as an intern and contributing to both frontend and backend development for building web applications. I am also exploring technical content writing as a means of expanding my skills and knowledge. 
 
-- 📫 How to reach me: &nbsp; [![Linkedin Badge]<a href="https://www.linkedin.com/in/mahesh-abeykoon/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
-
+- 📫 How to reach me: &nbsp; <a href="https://www.linkedin.com/in/mahesh-abeykoon/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
+- <a href="https://medium.com/@maheshoabeykoon"><img src="https://img.shields.io/badge/Medium-blue?style=for-the-badge&logo=medium&logoColor=black" alt="Medium Badge"></a>
 
 
 ### 🔥 &nbsp; My Stats :
