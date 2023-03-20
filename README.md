@@ -1,3 +1,7 @@
+<p align="left">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header"/>
+</p>
+
 <p align="center"><img src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966" width="100"/></p>
 <p align="center">
 </p>
@@ -10,10 +14,10 @@
 
 I am a Software Developer from Sri Lanka, currently working as an intern and contributing to both frontend and backend development for building web applications. I am also exploring technical content writing as a means of expanding my skills and knowledge. 
 
-- 📫 How to reach me: &nbsp; 
+- 📫 How to reach me: &nbsp;
 <a href="https://www.linkedin.com/in/mahesh-abeykoon/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a> 
 <a href="https://medium.com/@maheshoabeykoon"><img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=whitelack" alt="Medium Badge"></a>
-<a href="https://maheshabeykoon.github.io/"><img src="https://img.shields.io/badge/Mahesh Abeykoon-blue?style=for-the-badge&logo=medium&logoColor=whitelack" alt="Medium Badge"></a>>
+<a href="https://maheshabeykoon.github.io/"><img src="https://img.shields.io/badge/Mahesh Abeykoon-blue?style=for-the-badge&logo=medium&logoColor=whitelack" alt="Medium Badge"></a>
 
 ### 🔥 &nbsp; My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Mahesh-Abeykoon&theme=black-ice&background=000000)](https://git.io/streak-stats)
@@ -27,7 +31,7 @@ I am a Software Developer from Sri Lanka, currently working as an intern and con
  
 <h2> 🚀 &nbsp;Tools I Have Used</h2>
 <p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" color="red" alt="vscode" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" alt="intellij" width="45" height="45 />
           
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="45" height="45"/>
