@@ -13,13 +13,14 @@
 
 I am a Software Developer from Sri Lanka, currently working as an intern and contributing to both frontend and backend development for building web applications. I am also exploring technical content writing as a means of expanding my skills and knowledge. 
 
-- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mahesh-abeykoon)
+- 📫 How to reach me: &nbsp; [![Linkedin Badge]<a href="https://www.linkedin.com/in/mahesh-abeykoon/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
+
 
 
 ### 🔥 &nbsp; My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Mahesh-Abeykoon&theme=tokyonight&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Mahesh-Abeykoon&theme=black-ice&background=000000)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?user=Mahesh-Abeykoon&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahesh-Abeykoon&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
