@@ -14,10 +14,6 @@
 
 I am an undergraduate, currently working as an intern developer and contributing to both frontend and backend development for building web applications. I am also exploring technical content writing as a means of expanding my skills and knowledge. 
 
-- 📫 How to reach me: &nbsp;
-<a href="https://www.linkedin.com/in/mahesh-abeykoon/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a> 
-<a href="https://medium.com/@maheshoabeykoon"><img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=whitelack" alt="Medium Badge"></a>
-<a href="https://maheshabeykoon.github.io/"><img src="https://img.shields.io/badge/Mahesh Abeykoon-blue?style=for-the-badge&logo=medium&logoColor=whitelack" alt="Medium Badge"></a>
 
 ### 🔥 &nbsp; My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Mahesh-Abeykoon&theme=black-ice&background=000000)](https://git.io/streak-stats)
@@ -58,7 +54,12 @@ I am an undergraduate, currently working as an intern developer and contributing
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sourcetree/sourcetree-original.svg" alt="sourcetree" width="45" height="45"/>
 
 </p>
-  
+
+                                                                                                                                        - 📫 How to reach me: &nbsp;
+<a href="https://www.linkedin.com/in/mahesh-abeykoon/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a> 
+<a href="https://medium.com/@maheshoabeykoon"><img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=whitelack" alt="Medium Badge"></a>
+<a href="https://maheshabeykoon.github.io/"><img src="https://img.shields.io/badge/Mahesh Abeykoon-blue?style=for-the-badge&logo=medium&logoColor=whitelack" alt="Medium Badge"></a>
+
 <p align="left">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
