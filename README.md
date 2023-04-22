@@ -55,7 +55,7 @@ I am an undergraduate, currently working as an intern developer and contributing
 
 </p>
 
-                                                                                                                                        - 📫 How to reach me: &nbsp;
+- 📫 How to reach me: &nbsp;
 <a href="https://www.linkedin.com/in/mahesh-abeykoon/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a> 
 <a href="https://medium.com/@maheshoabeykoon"><img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=whitelack" alt="Medium Badge"></a>
 <a href="https://maheshabeykoon.github.io/"><img src="https://img.shields.io/badge/Mahesh Abeykoon-blue?style=for-the-badge&logo=medium&logoColor=whitelack" alt="Medium Badge"></a>
