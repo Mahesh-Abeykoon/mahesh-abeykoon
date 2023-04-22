@@ -54,7 +54,10 @@ I am an undergraduate, currently working as an intern developer and contributing
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="45" height="45"/>        
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" alt="bitbucket" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sourcetree/sourcetree-original.svg" alt="sourcetree" width="45" height="45"/>
-
+<i class="devicon-unity-original"></i>
+                                 
+            <i class="devicon-unity-original colored"></i>
+          
 </p>
 
 - 📫 How to reach me: &nbsp;
