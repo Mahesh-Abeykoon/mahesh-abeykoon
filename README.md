@@ -84,7 +84,7 @@
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahesh-Abeykoon&layout=compact&theme=vision-friendly-dark&tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)](https://github.com/anuraghazra/github-readme-stats)
 
   <a href="https://github.com/Mahesh-Abeykoon/mahesh-abeykoon">
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Mahesh- Abeykoon&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Mahesh's GitHub Stats" />
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Mahesh-Abeykoon&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Mahesh's GitHub Stats" />
   </a>
 
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Mahesh-Abeykoon&theme=black-ice&background=000000)](https://git.io/streak-stats)
