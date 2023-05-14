@@ -12,9 +12,7 @@
   <h1 align="center">Hi!.. I'm Mahesh <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 
 
-  I'm an undergraduate, currently working as a software developer & contributing to both frontend and backend development for building web applications, I'm  passionate about mobile app development using Java language & React Native freamwork. I'm also exploring technical content writing as a means of expanding my skills & knowledge. 
-
-
+  I'm an undergraduate, currently working as a software developer & contributing to both frontend and backend development for building web applications, I'm  passionate about mobile app development using Java & React Native.
 
   ### ✍️ Blog Posts : 
   - [Getting Started with Spring Boot: A Beginner’s Guide](https://medium.com/@maheshoabeykoon/getting-started-with-spring-boot-a-beginners-guide-85e7f890aa9b)
