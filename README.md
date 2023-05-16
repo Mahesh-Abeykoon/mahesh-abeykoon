@@ -10,8 +10,7 @@
   </p>
 
   <h1 align="center">Hi!.. I'm Mahesh <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
-
-
+  
   I'm an undergraduate, currently working as a software developer & contributing to both frontend and backend development for building web Apps, I'm  also passionate about mobile App development using Java & React Native.
 
   ### ✍️ Blog Posts : 
@@ -83,7 +82,7 @@
   <a href="https://github.com/Mahesh-Abeykoon/mahesh-abeykoon">
    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Mahesh-Abeykoon&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Mahesh's GitHub Stats" />
   </a>
-
+  
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Mahesh-Abeykoon&theme=black-ice&background=000000)](https://git.io/streak-stats)
 
   <!-- 
@@ -104,7 +103,6 @@
 </a>
   <a href="https://maheshabeykoon.github.io/"><img src="https://img.shields.io/badge/Mahesh Abeykoon-blue?style=for-the-badge&logo=medium&logoColor=whitelack"     alt="Medium Badge">
   </a>
-
   <p align="center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
   </p>
