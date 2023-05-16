@@ -74,7 +74,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" alt="bitbucket" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sourcetree/sourcetree-original.svg" alt="sourcetree" width="45" height="45"/> -->
 
-
   </p>
 
   ## 🔥 &nbsp; My GitHub Stats :
