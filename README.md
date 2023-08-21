@@ -25,7 +25,7 @@
 
   [![My Skills](https://skillicons.dev/icons?i=androidstudio,unity)](https://skillicons.dev)
 
-  [![My Skills](https://skillicons.dev/icons?i=python,java,js,r)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=java,js,)](https://skillicons.dev)
 
   [![My Skills](https://skillicons.dev/icons?i=spring,react,express,nodejs)](https://skillicons.dev)
 
