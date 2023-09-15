@@ -21,7 +21,7 @@
 
   [![My Skills](https://skillicons.dev/icons?i=idea,eclipse,vscode,postman&perline=5)](https://skillicons.dev)
 
-  [![My Skills](https://skillicons.dev/icons?i=gradle,maven)](https://skillicons.dev)
+   <!-- [![My Skills](https://skillicons.dev/icons?i=gradle,maven)](https://skillicons.dev)  <!--
 
   [![My Skills](https://skillicons.dev/icons?i=androidstudio,unity)](https://skillicons.dev)
 
