@@ -34,7 +34,7 @@
 
   [![My Skills](https://skillicons.dev/icons?i=html,css,sass)](https://skillicons.dev)
 
-  [![My Skills](https://skillicons.dev/icons?i=firebase,mongodb,mysql)](https://skillicons.dev)
+ // [![My Skills](https://skillicons.dev/icons?i=firebase,mongodb,mysql)](https://skillicons.dev)
 
   [![My Skills](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" alt="bitbucket" width="45" height="45"/>
