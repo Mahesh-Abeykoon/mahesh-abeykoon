@@ -19,10 +19,7 @@
   <h2> 🚀 &nbsp;Tools I Have Used</h2>
   <p align="left">
     
-  [![My Skills](https://skillicons.dev/icons?i=idea,eclipse,vscode,postman&perline=5)](https://skillicons.dev)
 
-  [![My Skills](https://skillicons.dev/icons?i=androidstudio,unity)](https://skillicons.dev)
-  
   [![My Skills](https://skillicons.dev/icons?i=html,css,sass)](https://skillicons.dev)
 
   [![My Skills](https://skillicons.dev/icons?i=java,js,)](https://skillicons.dev)
@@ -38,6 +35,10 @@
   [![My Skills](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" alt="bitbucket" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sourcetree/sourcetree-original.svg" alt="sourcetree" width="45" height="45"/>
+  
+  [![My Skills](https://skillicons.dev/icons?i=idea,eclipse,vscode,postman&perline=5)](https://skillicons.dev)
+
+  [![My Skills](https://skillicons.dev/icons?i=androidstudio,unity)](https://skillicons.dev)
   
   <!-- 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" height="45" />
