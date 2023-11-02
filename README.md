@@ -8,7 +8,6 @@
   </p>
   <p align="center">
   </p>
-
   <h1 align="center">Hi.. I'm Mahesh <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
   
   I'm graduated, currently working as a software developer & contributing to both frontend and backend development for building web Applications, I'm  also passionate about mobile App development using Java & React Native.
