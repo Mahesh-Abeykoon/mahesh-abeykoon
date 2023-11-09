@@ -19,7 +19,7 @@ I'm graduated, currently working as a software developer & contributing to both 
   <h2> 🚀 &nbsp;Tools I Have Used</h2>
   <p align="left">
     
-  [![My Skills](https://skillicons.dev/icons?i=html,css,sass)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=html,css,sass)](https://skillicons.dev)
   [![My Skills](https://skillicons.dev/icons?i=java,js,)](https://skillicons.dev)
 
   [![My Skills](https://skillicons.dev/icons?i=spring,react,express,nodejs)](https://skillicons.dev)
@@ -82,14 +82,13 @@ I'm graduated, currently working as a software developer & contributing to both 
   
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Mahesh-Abeykoon&theme=black-ice&background=000000)](https://git.io/streak-stats)
 
-  <!-- 
   <a href="https://github.com/Mahesh-Abeykoon/mahesh-abeykoon">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahesh-Abeykoon&hide=shaderlab,asp.net&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
   </a> 
    -->
   <!-- <a href="https://github.com/Mahesh-Abeykoon/mahesh-abeykoon">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahesh-Abeykoon&hide=html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
-  </a> -->
+  </a> 
 
   - 📫 How to reach me: &nbsp;
  
