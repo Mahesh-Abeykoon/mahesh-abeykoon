@@ -80,7 +80,7 @@ I'm graduated, currently working as a software developer & contributing to both 
    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Mahesh-Abeykoon&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Mahesh's GitHub Stats" />
   </a>
   
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Mahesh-Abeykoon&theme=black-ice&background=000000)](https://git.io/streak-stats)
+ <!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Mahesh-Abeykoon&theme=black-ice&background=000000)](https://git.io/streak-stats) -->
 
 
   - 📫 How to reach me: &nbsp;
