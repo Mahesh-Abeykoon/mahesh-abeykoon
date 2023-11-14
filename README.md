@@ -19,7 +19,7 @@ I'm graduated, working as a software developer & contributing to both frontend a
   <p align="left">
     
  [![My Skills](https://skillicons.dev/icons?i=html,css,sass,)](https://skillicons.dev)
- [![My Skills](https://skillicons.dev/icons?i=java,js)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=java,js,)](https://skillicons.dev)
  [![My Skills](https://skillicons.dev/icons?i=spring,react,nodejs,express)](https://skillicons.dev)
  [![My Skills](https://skillicons.dev/icons?i=firebase,mongodb,mysql)](https://skillicons.dev)
 
