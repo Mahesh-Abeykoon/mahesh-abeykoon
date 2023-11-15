@@ -33,7 +33,7 @@ I'm graduated, working as a software developer & contributing to both frontend a
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" alt="bitbucket" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sourcetree/sourcetree-original.svg" alt="sourcetree" width="45" height="45"/>
   
-  [![My Skills](https://skillicons.dev/icons?i=idea,eclipse,vscode,postman, &perline=5)](https://skillicons.dev) 
+  [![My Skills](https://skillicons.dev/icons?i=idea,eclipse,vscode,postman,&perline=5)](https://skillicons.dev) 
   [![My Skills](https://skillicons.dev/icons?i=androidstudio,unity)](https://skillicons.dev)
   
   <!-- 
