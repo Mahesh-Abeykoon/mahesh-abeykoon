@@ -36,8 +36,6 @@ I'm graduated, working as a software developer & contributing to both frontend a
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" alt="bitbucket" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sourcetree/sourcetree-original.svg" alt="sourcetree" width="45" height="45"/>
   
-
-
   <!-- 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" height="45" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="45" height="45" />
@@ -68,9 +66,8 @@ I'm graduated, working as a software developer & contributing to both frontend a
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="45" height="45"/>        
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" alt="bitbucket" width="45" height="45"/>
-
   </p>
-
+  
   ## 🔥 &nbsp; My GitHub Stats :
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahesh-Abeykoon&layout=compact&theme=vision-friendly-dark&tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)](https://github.com/anuraghazra/github-readme-stats)
