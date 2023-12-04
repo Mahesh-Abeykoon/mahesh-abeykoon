@@ -79,9 +79,9 @@ I'm graduated, working as a software developer & contributing to both frontend a
   </a>
   
  <!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Mahesh-Abeykoon&theme=black-ice&background=000000)](https://git.io/streak-stats) -->
-<br/> <br/>
+  <br/> 
   - 📫 How to reach me: &nbsp;
- 
+ <br/>
   <a href="https://www.linkedin.com/in/mahesh-abeykoon/"> 
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
   </a> 
