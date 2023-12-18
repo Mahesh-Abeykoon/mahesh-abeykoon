@@ -92,6 +92,6 @@ I'm graduated, working as a software developer & contributing to both frontend a
     <img src="https://img.shields.io/badge/Mahesh Abeykoon-blue?style=for-the-badge&logo=medium&logoColor=whitelack" alt="Medium Badge">
   </a>
   <p align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-  </p>
+<!--     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+  </p> -->
 <hr>
