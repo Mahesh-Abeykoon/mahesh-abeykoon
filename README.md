@@ -12,7 +12,7 @@
   
 I'm graduated, working as a software developer & contributing to both frontend and backend development for building web Applications, I'm  also passionate about mobile App development using Java (Android) & React Native.
 
-  ### ✍️ Blog Posts : 
+  ### ✍️ Blog Posts :
   - [Getting Started with Spring Boot: A Beginner’s Guide](https://medium.com/@maheshoabeykoon/getting-started-with-spring-boot-a-beginners-guide-85e7f890aa9b)
 
   <h2> 🚀 &nbsp;Tools I Have Used</h2>
