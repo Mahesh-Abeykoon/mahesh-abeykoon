@@ -22,12 +22,10 @@ I'm graduated, working as a software developer & contributing to both frontend a
     
   [![My Skills](https://skillicons.dev/icons?i=androidstudio,unity,)](https://skillicons.dev)
   [![My Skills](https://skillicons.dev/icons?i=idea,eclipse,vscode,postman&perline=5)](https://skillicons.dev)  
- [![My Skills](https://skillicons.dev/icons?i=jquery,,html,css,,sass,bootstrap,tailwind)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=js,html,css,jquery,,sass,bootstrap,tailwind)](https://skillicons.dev)
  
- [![My Skills](https://skillicons.dev/icons?i=java,js,python,r,,spring,react,nodejs,express)](https://skillicons.dev)
- 
- [![My Skills](https://skillicons.dev/icons?i=)](https://skillicons.dev)
-  
+ [![My Skills](https://skillicons.dev/icons?i=java,python,r,,spring,react,nodejs,express)](https://skillicons.dev)
+   
   [![My Skills](https://skillicons.dev/icons?i=gcp,cloudflare,)](https://skillicons.dev)
  [![My Skills](https://skillicons.dev/icons?i=firebase,mongodb,mysql)](https://skillicons.dev)
 
