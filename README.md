@@ -22,11 +22,13 @@ I'm graduated, working as a software developer & contributing to both frontend a
     
   [![My Skills](https://skillicons.dev/icons?i=androidstudio,unity,)](https://skillicons.dev)
   [![My Skills](https://skillicons.dev/icons?i=idea,eclipse,vscode,postman&perline=5)](https://skillicons.dev)  
- [![My Skills](https://skillicons.dev/icons?i=html,css,sass)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=jquery,,html,css,,sass,bootstrap,tailwind)](https://skillicons.dev)
  
- [![My Skills](https://skillicons.dev/icons?i=java,js,python,)](https://skillicons.dev)
- [![My Skills](https://skillicons.dev/icons?i=spring,react,nodejs,express,)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=java,js,python,r,,spring,react,nodejs,express)](https://skillicons.dev)
  
+ [![My Skills](https://skillicons.dev/icons?i=)](https://skillicons.dev)
+  
+  [![My Skills](https://skillicons.dev/icons?i=gcp,cloudflare,)](https://skillicons.dev)
  [![My Skills](https://skillicons.dev/icons?i=firebase,mongodb,mysql)](https://skillicons.dev)
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="45" height="45" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg"   width="45" height="45" /> 
@@ -36,6 +38,7 @@ I'm graduated, working as a software developer & contributing to both frontend a
   [![My Skills](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" alt="bitbucket" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sourcetree/sourcetree-original.svg" alt="sourcetree" width="45" height="45"/>
+  [![My Skills](https://skillicons.dev/icons?i=,bash)](https://skillicons.dev)
 
  <!-- 
  
