@@ -9,7 +9,7 @@
   </p>
   <p align="center">
   </p>
-  <h1 align="center">Hello.. I'm Mahesh 👨‍💻 A Passionate FullStack developer </h1>
+  <h1 align="center">Hello... I'm Mahesh 👨‍💻 A Passionate FullStack developer </h1>
   
 I'm graduated, working as a software developer & contributing to both frontend and backend development for building web Applications, I'm  also passionate about mobile App development using React Native & Java (Android).
 
