@@ -86,6 +86,8 @@ I'm graduated, working as a software developer & contributing to both frontend a
  
  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Mahesh-Abeykoon&theme=black-ice&background=000000)](https://git.io/streak-stats) 
  
+ [![GitHub Streak](https://streak-stats.demolab.com/?user=Mahesh-Abeykoon&theme=dark)](https://git.io/streak-stats)
+ 
   <br/> <br/>
   <h2> 📫 How to reach me:</h2> &nbsp;
  <br/>
