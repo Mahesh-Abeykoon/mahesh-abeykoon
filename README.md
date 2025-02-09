@@ -25,7 +25,7 @@ I'm graduated, working as a software developer & contributing to both frontend a
 [![My Skills](https://skillicons.dev/icons?i=html,css,jquery,,sass,bootstrap,tailwind)](https://skillicons.dev)
 
 ## Backend Technologies & Frameworks
-[![My Skills](https://skillicons.dev/icons?i=spring,nodejs,express)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=spring,,nodejs,express)](https://skillicons.dev)  
 [![My Skills](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
 
 ## Cloud & Databases
@@ -39,7 +39,7 @@ I'm graduated, working as a software developer & contributing to both frontend a
 [![My Skills](https://skillicons.dev/icons?i=vscode,idea,eclipse,postman&perline=5)](https://skillicons.dev)
 
 ## Package Managers
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="45" height="45" />  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="45" height="45" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" width="45" height="45" />
 
 ## Build Tools
@@ -50,8 +50,8 @@ I'm graduated, working as a software developer & contributing to both frontend a
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" alt="bitbucket" width="45" height="45"/>  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sourcetree/sourcetree-original.svg" alt="sourcetree" width="45" height="45"/>
 
-## Shell Scripting
-[![My Skills](https://skillicons.dev/icons?i=bash)](https://skillicons.dev)
+  <!-- Shell Scripting
+ [![My Skills](https://skillicons.dev/icons?i=bash)](https://skillicons.dev)   -->
 
  <!-- 
  
