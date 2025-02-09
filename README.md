@@ -20,13 +20,13 @@ I'm graduated, working as a software developer & contributing to both frontend a
   <h2> 🚀 &nbsp;Tools I Have Used</h2>
   <p align="left">
     
-
 ## Programming Languages
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,jquery,sass,bootstrap,tailwind)](https://skillicons.dev)  
-[![My Skills](https://skillicons.dev/icons?i=java,python,r)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,java,python,r)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=html,css,jquery,,sass,bootstrap,tailwind)](https://skillicons.dev)
 
 ## Backend Technologies & Frameworks
-[![My Skills](https://skillicons.dev/icons?i=spring,react,nodejs,express)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=spring,nodejs,express)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
 
 ## Cloud & Databases
 [![My Skills](https://skillicons.dev/icons?i=aws,gcp,cloudflare)](https://skillicons.dev)  
@@ -52,7 +52,6 @@ I'm graduated, working as a software developer & contributing to both frontend a
 
 ## Shell Scripting
 [![My Skills](https://skillicons.dev/icons?i=bash)](https://skillicons.dev)
-
 
  <!-- 
  
