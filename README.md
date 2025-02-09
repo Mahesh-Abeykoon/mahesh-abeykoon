@@ -39,8 +39,7 @@ I'm graduated, working as a software developer & contributing to both frontend a
 [![My Skills](https://skillicons.dev/icons?i=vscode,idea,eclipse,postman&perline=5)](https://skillicons.dev)
 
 ## Package Managers
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="45" height="45" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" width="45" height="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="45" height="45" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" width="45" height="45" />
 
 ## Build Tools
 [![My Skills](https://skillicons.dev/icons?i=gradle,maven)](https://skillicons.dev)
