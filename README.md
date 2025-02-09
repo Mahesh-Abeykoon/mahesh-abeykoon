@@ -21,23 +21,38 @@ I'm graduated, working as a software developer & contributing to both frontend a
   <p align="left">
     
 
- [![My Skills](https://skillicons.dev/icons?i=js,html,css,jquery,,sass,bootstrap,tailwind)](https://skillicons.dev)
- 
- [![My Skills](https://skillicons.dev/icons?i=java,python,r,,spring,react,nodejs,express)](https://skillicons.dev)
-   
- [![My Skills](https://skillicons.dev/icons?i=aws,gcp,cloudflare,)](https://skillicons.dev)
- [![My Skills](https://skillicons.dev/icons?i=firebase,mongodb,mysql)](https://skillicons.dev)
+## Programming Languages
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,jquery,sass,bootstrap,tailwind)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=java,python,r)](https://skillicons.dev)
 
-  [![My Skills](https://skillicons.dev/icons?i=androidstudio,unity,)](https://skillicons.dev)
-  [![My Skills](https://skillicons.dev/icons?i=vscode,idea,eclipse,postman&perline=5)](https://skillicons.dev)  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="45" height="45" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg"   width="45" height="45" /> 
+## Backend Technologies & Frameworks
+[![My Skills](https://skillicons.dev/icons?i=spring,react,nodejs,express)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=gradle,maven)](https://skillicons.dev) 
+## Cloud & Databases
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,cloudflare)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=firebase,mongodb,mysql)](https://skillicons.dev)
 
-  [![My Skills](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" alt="bitbucket" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sourcetree/sourcetree-original.svg" alt="sourcetree" width="45" height="45"/>
-  [![My Skills](https://skillicons.dev/icons?i=,bash)](https://skillicons.dev)
+## Mobile & Game Development
+[![My Skills](https://skillicons.dev/icons?i=androidstudio,unity)](https://skillicons.dev)
+
+## Development Tools & IDEs
+[![My Skills](https://skillicons.dev/icons?i=vscode,idea,eclipse,postman&perline=5)](https://skillicons.dev)
+
+## Package Managers
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="45" height="45" />  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" width="45" height="45" />
+
+## Build Tools
+[![My Skills](https://skillicons.dev/icons?i=gradle,maven)](https://skillicons.dev)
+
+## Version Control & Collaboration
+[![My Skills](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" alt="bitbucket" width="45" height="45"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sourcetree/sourcetree-original.svg" alt="sourcetree" width="45" height="45"/>
+
+## Shell Scripting
+[![My Skills](https://skillicons.dev/icons?i=bash)](https://skillicons.dev)
+
 
  <!-- 
  
