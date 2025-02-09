@@ -45,8 +45,7 @@ I'm graduated, working as a software developer & contributing to both frontend a
 [![My Skills](https://skillicons.dev/icons?i=gradle,maven)](https://skillicons.dev)
 
 ## Version Control & Collaboration
-[![My Skills](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" alt="bitbucket" width="45" height="45"/>  
+[![My Skills](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" alt="bitbucket" width="45" height="45"/>  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sourcetree/sourcetree-original.svg" alt="sourcetree" width="45" height="45"/>
 
   <!-- Shell Scripting
