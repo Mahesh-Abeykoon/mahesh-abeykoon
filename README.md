@@ -25,7 +25,7 @@ I'm graduated, working as a software developer & contributing to both frontend a
 [![My Skills](https://skillicons.dev/icons?i=html,css,jquery,,sass,bootstrap,tailwind)](https://skillicons.dev)
 
 ## Backend Technologies & Frameworks
-[![My Skills](https://skillicons.dev/icons?i=spring,,nodejs,express)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=spring,nodejs,express,nestjs)](https://skillicons.dev)  
 [![My Skills](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
 
 ## Cloud & Databases
