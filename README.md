@@ -1,121 +1,79 @@
 <hr>
-  <p align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header"/>
-  </p>
-  
-  <!--  <p align="center">
-    <img src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966" width="220"/></p>  <--> 
-    
-  <p align="center">
-  </p>
-  <p align="center">
-  </p>
-  <h1 align="center">Hello... I'm Mahesh 👨‍💻 A Passionate FullStack developer </h1>
-  
-I'm graduated, working as a software developer & contributing to both frontend and backend development for building web Applications, I'm  also passionate about mobile App development using React Native & Java (Android).
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header"/>
+</p>
 
-  ### ✍️ Blog Posts : 
-  - [Getting Started with Spring Boot: A Beginner’s Guide](https://medium.com/@maheshoabeykoon/getting-started-with-spring-boot-a-beginners-guide-85e7f890aa9b)
-  - [Introduction to React](https://medium.com/@maheshoabeykoon/introduction-to-react-2cf7a2f9cd9c)
+<h1 align="center">Hi there 👋, I'm Mahesh Abeykoon</h1>
+<h3 align="center">Full-Stack Engineer | Web & Mobile Developer</h3>
 
-  <h2> 🚀 &nbsp;Tools I Have Used</h2>
-  <p align="left">
-    
-## Programming Languages
-[![My Skills](https://skillicons.dev/icons?i=java,python)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=js,ts,)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=html,css,jquery,,sass,bootstrap,tailwind)](https://skillicons.dev)
+---
 
-## Backend Technologies & Frameworks
-[![My Skills](https://skillicons.dev/icons?i=spring,nodejs,express)](https://skillicons.dev)  
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs,electron)](https://skillicons.dev)
+### 💻 About Me
+I'm a Full-Stack Software Engineer with experience building modern web applications and mobile apps. I enjoy exploring new technologies and experimenting with game and desktop app development as a hobby.  
 
-## Cloud & Databases
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,cloudflare)](https://skillicons.dev)  
-[![My Skills](https://skillicons.dev/icons?i=firebase,mongodb,mysql)](https://skillicons.dev)
+- 🌐 **Web:** React, Next.js, Node.js, Express, Spring Boot  
+- 📱 **Mobile:** React Native, Java  
+- 🎮 **Hobby Projects:** Unity games, Electron desktop apps  
+- ☁️ **Cloud & Databases:** AWS, GCP, Firebase, MongoDB, MySQL  
 
-## Mobile & Game Development
-[![My Skills](https://skillicons.dev/icons?i=androidstudio,unity)](https://skillicons.dev)
+---
 
-## Development Tools & IDEs
-[![My Skills](https://skillicons.dev/icons?i=vscode,idea,eclipse,postman&perline=5)](https://skillicons.dev)
+### 🚀 Skills
 
-## Package Managers
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="45" height="45" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" width="45" height="45" />
+#### Programming Languages
+![Java](https://skillicons.dev/icons?i=java)
+![Python](https://skillicons.dev/icons?i=python)
+![JavaScript](https://skillicons.dev/icons?i=js,ts)
 
-## Build Tools
-[![My Skills](https://skillicons.dev/icons?i=gradle,maven)](https://skillicons.dev)
+![HTML/CSS](https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind)
 
-## Version Control & Collaboration
-[![My Skills](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" alt="bitbucket" width="45" height="45"/>  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sourcetree/sourcetree-original.svg" alt="sourcetree" width="45" height="45"/>
+#### Frameworks & Libraries
+![React](https://skillicons.dev/icons?i=react,nextjs,electron)
 
-  <!-- Shell Scripting
- [![My Skills](https://skillicons.dev/icons?i=bash)](https://skillicons.dev)   -->
+![Node.js](https://skillicons.dev/icons?i=nodejs,express)
+![Spring Boot](https://skillicons.dev/icons?i=spring)
 
- <!-- 
- 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" height="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="45" height="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" alt="android" width="45" height="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="45" height="45" />
+#### Cloud & Databases
+![AWS](https://skillicons.dev/icons?i=aws,gcp,cloudflare,vercel,netlify)
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"  alt="java" width="45" height="45" />        
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="45" height="45" />
+![Firebase](https://skillicons.dev/icons?i=firebase,mongodb,mysql,postgres)
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="spring" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"  width="45" height="45" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="45" height="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="45" height="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" width="45" height="45" />
+#### Mobile & Game Dev
+![Android](https://skillicons.dev/icons?i=androidstudio,react)
+![Unity](https://skillicons.dev/icons?i=unity)
 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="45" height="45" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="45" height="45" />
+#### Tools & IDEs
+![VS Code](https://skillicons.dev/icons?i=vscode,idea,eclipse,postman)
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="sass" width="45" height="45"/>
+#### Version Control & Collaboration
+![GitHub](https://skillicons.dev/icons?i=git,github)
+![Bitbucket](https://skillicons.dev/icons?i=bitbucket,gitlab)
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="firebase" width="45" height="45" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="45" height="45" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45" height="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" width="45" height="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="45" height="45"/>        
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" alt="bitbucket" width="45" height="45"/>
-  </p>
- -->
-  
-  <h2>🔥 &nbsp; My GitHub Stats :<h2/>
+---
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahesh-Abeykoon&layout=compact&theme=vision-friendly-dark&langs_count=5&langs&hide=asp.net,shaderlab&tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)](https://github.com/anuraghazra/github-readme-stats)
- 
+### 📈 GitHub Stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahesh-Abeykoon&layout=compact&theme=vision-friendly-dark&langs_count=5&hide=asp.net,shaderlab)](https://github.com/Mahesh-Abeykoon)
 
+---
 
- <!-- 
-  <a href="https://github.com/Mahesh-Abeykoon/mahesh-abeykoon">
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Mahesh-Abeykoon&show_icons=true&line_height=30&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="My GitHub Stats" />
-  </a>
- -->
- 
- <!--  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Mahesh-Abeykoon&theme=black-ice&background=000000)](https://git.io/streak-stats)  -->
-    
-  <br/> <br/>
-  <h2> 📫 How to reach me:</h2> &nbsp;
- <br/>
-  <a href="https://www.linkedin.com/in/mahesh-abeykoon/"> 
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
-  </a> 
-  <a href="https://medium.com/@maheshoabeykoon">
-   <img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=whitelack" alt="Medium Badge">
-  </a>
-  <a href="https://mahesh-abeykoon.github.io/"> 
-    <img src="https://img.shields.io/badge/Mahesh Abeykoon-blue?style=for-the-badge&logo=medium&logoColor=whitelack" alt="Medium Badge">
-  </a>
-  <p align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-  </p>
+### ✍️ Blog Posts
+- [Getting Started with Spring Boot: A Beginner’s Guide](https://medium.com/@maheshoabeykoon/getting-started-with-spring-boot-a-beginners-guide-85e7f890aa9b)  
+- [Introduction to React](https://medium.com/@maheshoabeykoon/introduction-to-react-2cf7a2f9cd9c)  
+
+---
+
+### 📫 Connect with Me
+<a href="https://www.linkedin.com/in/mahesh-abeykoon/">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+<a href="https://medium.com/@maheshoabeykoon">
+  <img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white" alt="Medium">
+</a>
+<a href="https://mahesh-abeykoon.github.io/">
+  <img src="https://img.shields.io/badge/Portfolio-blue?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio">
+</a>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
 <hr>
-
-
