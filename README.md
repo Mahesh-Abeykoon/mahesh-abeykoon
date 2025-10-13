@@ -22,12 +22,13 @@ I'm graduated, working as a software developer & contributing to both frontend a
   <p align="left">
     
 ## Programming Languages
-[![My Skills](https://skillicons.dev/icons?i=js,java,python,r)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=java,python)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=html,css,jquery,,sass,bootstrap,tailwind)](https://skillicons.dev)
 
 ## Backend Technologies & Frameworks
-[![My Skills](https://skillicons.dev/icons?i=spring,nodejs,express,nestjs)](https://skillicons.dev)  
-[![My Skills](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=spring,nodejs,express)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,electron)](https://skillicons.dev)
 
 ## Cloud & Databases
 [![My Skills](https://skillicons.dev/icons?i=aws,gcp,cloudflare)](https://skillicons.dev)  
