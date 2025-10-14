@@ -18,8 +18,8 @@ I'm a Full-Stack Software Engineer with experience building modern web applicati
 
 - 🌐 **Web:** React, Next.js, Node.js, Express, Spring Boot  
 - 📱 **Mobile:** React Native, Java  
-- 🎮 **Hobby Projects:** Unity games, Electron desktop apps  
-- ☁️ **Cloud & Databases:** AWS, GCP, Firebase, MongoDB, MySQL  
+- 🎮 **Hobby Projects:** Games, Desktop apps  
+- ☁️ **Cloud & Databases:** AWS, GCP, Firebase, MongoDB, MySQL , PostgreSQL  
 
 ---
 
