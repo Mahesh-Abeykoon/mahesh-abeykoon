@@ -4,7 +4,12 @@
 </p>
 
 <h1 align="center">Hi there 👋, I'm Mahesh Abeykoon</h1>
-<h3 align="center">Full-Stack Engineer | Web & Mobile Developer</h3>
+
+<div align="center">
+  
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=7696ba&center=true&vCenter=true&width=800&lines=Full-Stack+Engineer+%7C+Web+%26+Mobile+Developer)
+
+</div>
 
 ---
 
