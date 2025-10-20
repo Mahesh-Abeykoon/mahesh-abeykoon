@@ -57,7 +57,7 @@ I'm a Full-Stack Software Engineer with experience building modern web applicati
 ---
 
 ### 📈 GitHub Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahesh-Abeykoon&layout=compact&theme=vision-friendly-dark&langs_count=5&hide=asp.net,shaderlab)](https://github.com/Mahesh-Abeykoon)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahesh-Abeykoon&layout=compact&theme=vision-friendly-dark&langs_count=4&hide=html,scss,css,hlsl,shaderlab)](https://github.com/Mahesh-Abeykoon)
 
 ---
 
