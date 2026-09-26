@@ -74,7 +74,7 @@ I'm a Full-Stack Software Engineer with experience building modern web applicati
 <a href="https://medium.com/@maheshoabeykoon">
   <img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white" alt="Medium">
 </a>
-<a href="https://mahesh-abeykoon.github.io/">
+<a href="https://mahesh-abeykoon.github.io](https://mahez.vercel.app/">
   <img src="https://img.shields.io/badge/Portfolio-blue?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio">
 </a>
 
